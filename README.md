@@ -497,7 +497,7 @@ pip install --upgrade streamlit
 
 **Ajay Tingare**
 
-Software Engineer | AI Engineer
+AI Engineer  
 
 GitHub: https://github.com/ajaytingare
 
